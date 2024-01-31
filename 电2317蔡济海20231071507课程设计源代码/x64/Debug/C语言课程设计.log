@@ -1,0 +1,7 @@
+﻿  display.cpp
+  main.cpp
+  revise.cpp
+C:\Users\xiela\Desktop\C语言课程设计\revise.cpp(82,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\xiela\Desktop\C语言课程设计\revise.cpp(128,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  C语言课程设计.vcxproj -> C:\Users\xiela\Desktop\C语言课程设计\x64\Debug\C语言课程设计.exe
